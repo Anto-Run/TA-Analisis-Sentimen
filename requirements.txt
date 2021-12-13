@@ -1,8 +1,6 @@
 
 Flask
 Keras
-Keras-Applications
-Keras-Preprocessing
 numpy
 pandas
 scikit-learn
